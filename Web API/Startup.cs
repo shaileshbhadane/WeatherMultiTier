@@ -38,6 +38,8 @@ namespace weather_retrieval
             //loggerFactory.AddDebug();
 
             app.UseMvc();
+
+            //comment the line
         }
     }
 }
