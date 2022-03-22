@@ -32,6 +32,7 @@ namespace weather_retrieval
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        // demo test
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
             //loggerFactory.AddConsole(Configuration.GetSection("Logging"));
