@@ -12,6 +12,6 @@ namespace weather_retrieval.Data
         public string windSpeed;
         public string windDirection;
         public Uri icon;
-
+        public string str;  
     }
 }

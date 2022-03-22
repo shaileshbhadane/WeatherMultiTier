@@ -40,11 +40,7 @@ namespace weather_retrieval
             app.UseMvc();
 
             //comment the line
-            // Test New line 1211
-            // new line added
-            //1
-            //2
-            //3
+                     
         }
     }
 }
